@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "leetcode"
+version = "0.1.0"
+description = "LeetCode solutions in Python 3.10.x"
+authors = ["Devin Horvay <devin.c.horvay@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.1.2"
+pytest-cov = "^3.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
