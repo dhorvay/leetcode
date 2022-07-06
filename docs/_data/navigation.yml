@@ -1,0 +1,15 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+
+quick-links:
+  - title: "Quick Links"
+    children:
+      - title: "Getting Started"
+        url: /tags/#getting-started
+      - title: "Blind75"
+        url: /tags/#blind75
