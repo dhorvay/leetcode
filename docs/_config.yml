@@ -4,6 +4,8 @@ email: devin.c.horvay@gmail.com
 description: >-
   LeetCode solutions in Python 3.10.x
 github_username: dhorvay
+url: https://dhorvay.github.io
+baseurl: /leetcode
 minimal_mistakes_skin: default
 search: true
 markdown: kramdown
@@ -11,6 +13,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
+timezone: America/New_York
 
 include:
   - _pages
@@ -25,7 +28,7 @@ plugins:
 
 author:
   name: Stuck on a problem? Here's a guide to help.
-  bio    : "Solutions in Python 3.10.x."
+  bio: Solutions in Python 3.10.x.
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
