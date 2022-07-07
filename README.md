@@ -13,8 +13,8 @@ You can utilize the table of contents in the left corner of this ```README``` to
 ## Organized by Entry Number
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes.md](./leetcode/problem_0001/notes.md)|
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes.md](./leetcode/problem_0053/notes.md)|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes.md](./leetcode/problem_0066/notes.md)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes.md](./leetcode/problem_0121/notes.md)|
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes.md](./leetcode/problem_0189/notes.md)|
@@ -30,8 +30,8 @@ You can utilize the table of contents in the left corner of this ```README``` to
 ### Arrays
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes.md](./leetcode/problem_0001/notes.md)|
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes.md](./leetcode/problem_0053/notes.md)|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes.md](./leetcode/problem_0066/notes.md)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes.md](./leetcode/problem_0121/notes.md)|
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes.md](./leetcode/problem_0189/notes.md)|
@@ -47,7 +47,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 ### Hash Table
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes.md](./leetcode/problem_0001/notes.md)|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes.md](./leetcode/problem_0217/notes.md)|
 
 ### Two Pointer
@@ -63,7 +63,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 ### Dynamic Programming
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes.md](./leetcode/problem_0053/notes.md)|
+|0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes]([https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes.md](./leetcode/problem_0121/notes.md)|
 
 ### Prefix Sum
