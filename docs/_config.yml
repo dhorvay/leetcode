@@ -6,8 +6,9 @@ description: >-
 github_username: dhorvay
 url: https://dhorvay.github.io
 baseurl: /leetcode
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
+search_full_content: true 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/

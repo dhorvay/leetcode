@@ -1,5 +1,5 @@
 ---
-title: Maximum Subarray ![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)
+title: Maximum Subarray
 categories:
   - Solutions
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Two Sum ![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)
+title: Two Sum
 categories:
   - Solutions
 tags:
