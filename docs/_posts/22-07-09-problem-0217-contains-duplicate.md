@@ -1,9 +1,19 @@
-## 217. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)
 ---
+title: Contains Duplicate
+categories:
+  - Solutions
+tags:
+  - Easy
+  - Arrays
+  - Hash Table
+sidebar:
+  nav: quick-links
+---
+
+
 Given an integer array ```nums```, return ```true``` if any value appears at least twice in the array, and return ```false``` if every element is distinct.
 
  
-
 **Example 1:**
 ```
 Input: nums = [1,2,3,1]
