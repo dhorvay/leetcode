@@ -12,7 +12,7 @@ search_full_content: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
-paginate: 5
+paginate: 8
 paginate_path: /page:num/
 timezone: America/New_York
 
