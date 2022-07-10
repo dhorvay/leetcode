@@ -1,5 +1,15 @@
-## 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) ![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)
 ---
+title: Best Time to Buy and Sell Stock
+categories:
+  - Solutions
+tags:
+  - Easy
+  - Arrays
+  - Dynamic Programming
+sidebar:
+  nav: quick-links
+---
+
 You are given an array ```prices``` where ```prices[i]``` is the price of a given stock on the i<sup>th</sup> day.
 
 You want to maximize your profit by choosing a **single day** to buy one stock and choosing a **different day in the future** to sell that stock.
