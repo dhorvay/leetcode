@@ -6,6 +6,7 @@ tags:
   - Easy
   - Arrays
   - Hash Table
+  - Blind75
 sidebar:
   nav: quick-links
 ---

@@ -6,6 +6,7 @@ tags:
   - Medium
   - Arrays
   - Prefix Sum
+  - Blind75
 sidebar:
   nav: quick-links
 ---

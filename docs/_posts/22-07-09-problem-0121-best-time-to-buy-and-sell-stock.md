@@ -6,6 +6,7 @@ tags:
   - Easy
   - Arrays
   - Dynamic Programming
+  - Blind75
 sidebar:
   nav: quick-links
 ---
