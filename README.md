@@ -23,6 +23,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0283-move-zeroes/)|
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0724-find-pivot-index/)|
 |0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0747-largest-number-at-least-twice-of-others/)|
+|0876|[Middle of the Linked List](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0876/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0876-middle-of-the-linked-list/)|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1491/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1491-average-salary-excluding-the-minimum-and-maximum-salary/)|
 |1523|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1523/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1523-count-odd-numbers-in-an-interval-range/)|
 |1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1991-find-the-middle-index-in-array/)|
@@ -45,6 +46,11 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1491/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1491-average-salary-excluding-the-minimum-and-maximum-salary/)|
 |1523|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1523/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1523-count-odd-numbers-in-an-interval-range/)|
 |1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1991-find-the-middle-index-in-array/)|
+
+### Linked List
+| # | Title | Difficulty | Solution | Notes |
+|---| ----- | ---------- | -------- | ----- |
+|0876|[Middle of the Linked List](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0876/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0876-middle-of-the-linked-list/)|
 ---
 
 ## Organized by Pattern
@@ -58,6 +64,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
 |0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0283-move-zeroes/)|
+|0876|[Middle of the Linked List](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0876/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0876-middle-of-the-linked-list/)|
 
 ### Reverse
 | # | Title | Difficulty | Solution | Notes |
