@@ -20,10 +20,10 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0189-rotate-array/)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0217-contains-duplicate/)|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0238/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0238-product-of-array-except-self/)|
-|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes.md](./leetcode/problem_0283/notes.md)|
-|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes.md](./leetcode/problem_0724/notes.md)|
-|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes.md](./leetcode/problem_0747/notes.md)|
-|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes.md](./leetcode/problem_1991/notes.md)|
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0283-move-zeroes/)|
+|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0724-find-pivot-index/)|
+|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0747-largest-number-at-least-twice-of-others/)|
+|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1991-find-the-middle-index-in-array/)|
 ---
 
 ## Organized by Data Structure
@@ -37,10 +37,10 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0189-rotate-array/)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0217-contains-duplicate/)|
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0238/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0238-product-of-array-except-self/)|
-|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes.md](./leetcode/problem_0283/notes.md)|
-|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes.md](./leetcode/problem_0724/notes.md)|
-|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes.md](./leetcode/problem_0747/notes.md)|
-|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes.md](./leetcode/problem_1991/notes.md)|
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0283-move-zeroes/)|
+|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0724-find-pivot-index/)|
+|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0747-largest-number-at-least-twice-of-others/)|
+|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1991-find-the-middle-index-in-array/)|
 ---
 
 ## Organized by Pattern
@@ -53,7 +53,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 ### Two Pointer
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes.md](./leetcode/problem_0283/notes.md)|
+|0283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0283/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0283-move-zeroes/)|
 
 ### Reverse
 | # | Title | Difficulty | Solution | Notes |
@@ -70,15 +70,15 @@ You can utilize the table of contents in the left corner of this ```README``` to
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
 |0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0238/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0238-product-of-array-except-self/)|
-|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes.md](./leetcode/problem_0724/notes.md)|
-|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes.md](./leetcode/problem_1991/notes.md)|
+|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0724-find-pivot-index/)|
+|1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-1991-find-the-middle-index-in-array/)|
 
 ### Math
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0066-plus-one/)|
 
-### Straightforward
+### Sorting
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes.md](./leetcode/problem_0747/notes.md)|
+|0747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0747/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0747-largest-number-at-least-twice-of-others/)|
