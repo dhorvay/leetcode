@@ -15,7 +15,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |---| ----- | ---------- | -------- | ----- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes.md](./leetcode/problem_0066/notes.md)|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes]([./leetcode/problem_0066/notes.md](https://dhorvay.github.io/leetcode/solutions/problem-0066-plus-one/))|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes.md](./leetcode/problem_0121/notes.md)|
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes.md](./leetcode/problem_0189/notes.md)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes.md](./leetcode/problem_0217/notes.md)|
@@ -32,7 +32,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |---| ----- | ---------- | -------- | ----- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
-|0066|[Plus One](https://leetcode.com/problems/plus-one/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes.md](./leetcode/problem_0066/notes.md)|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes]([./leetcode/problem_0066/notes.md](https://dhorvay.github.io/leetcode/solutions/problem-0066-plus-one/))|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes.md](./leetcode/problem_0121/notes.md)|
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes.md](./leetcode/problem_0189/notes.md)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes.md](./leetcode/problem_0217/notes.md)|
@@ -73,10 +73,10 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0724/solution.py)|[notes.md](./leetcode/problem_0724/notes.md)|
 |1991|[Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_1991/solution.py)|[notes.md](./leetcode/problem_1991/notes.md)|
 
-### Add Number
+### Math
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
-|0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes.md](./leetcode/problem_0066/notes.md)|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes]([./leetcode/problem_0066/notes.md](https://dhorvay.github.io/leetcode/solutions/problem-0066-plus-one/))|
 
 ### Straightforward
 | # | Title | Difficulty | Solution | Notes |
