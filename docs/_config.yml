@@ -28,7 +28,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: Stuck on a problem? Here's a guide to help.
+  name: Recording my thoughts as I work through problems.
   bio: Solutions in Python 3.10.x.
   links:
     - label: "Website"

@@ -1,5 +1,15 @@
-## 283. [Move Zeroes](https://leetcode.com/problems/move-zeroes/) ![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)
 ---
+title: Rotate Array
+categories:
+  - Solutions
+tags:
+  - Medium
+  - Arrays
+  - Reverse
+sidebar:
+  nav: quick-links
+---
+
 Given an array, rotate the array to the right by ```k``` steps, where ```k``` is non-negative.
 
 **Example 1:**
