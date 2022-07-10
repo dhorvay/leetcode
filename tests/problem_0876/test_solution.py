@@ -1,5 +1,5 @@
 import pytest
-from leetcode.common.list_node import from_list, equals
+from leetcode.common.list_node import equals, from_list
 from leetcode.problem_0876 import Solution
 
 params = [
