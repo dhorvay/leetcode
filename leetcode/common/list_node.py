@@ -7,7 +7,8 @@ class ListNode:
         self.next = next
 
 def from_list(lst: List[int]) -> Optional[ListNode]: 
-    assert len(lst) > 0 
+    if len(lst) == 0:
+        return None
     if len(lst) == 1: 
         return ListNode(lst[0]) 
     else: 
