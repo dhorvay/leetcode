@@ -6,6 +6,7 @@ tags:
   - Easy
   - Linked List
   - Sorting
+  - Blind75
 sidebar:
   nav: quick-links
 ---

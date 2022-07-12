@@ -6,6 +6,7 @@ tags:
   - Easy
   - Linked List
   - Hash Table
+  - Blind75
 sidebar:
   nav: quick-links
 ---
