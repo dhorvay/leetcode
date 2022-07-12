@@ -18,6 +18,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0053/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0053-maximum-subarray/)|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/)|![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0066/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0066-plus-one/)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0121/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0121-best-time-to-buy-and-sell-stock/)|
+|0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0142/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0142-linked-list-cycle-ii/)|
 |0189|[Rotate Array](https://leetcode.com/problems/move-zeroes/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0189/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0189-rotate-array/)|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0206/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0206-reverse-linked-list/)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0217-contains-duplicate/)|
@@ -53,6 +54,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0021/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0021-merge-two-sorted-lists/)|
+|0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0142/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0142-linked-list-cycle-ii/)|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0206/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0206-reverse-linked-list/)|
 |0876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0876/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0876-middle-of-the-linked-list/)|
 ---
@@ -62,6 +64,7 @@ You can utilize the table of contents in the left corner of this ```README``` to
 | # | Title | Difficulty | Solution | Notes |
 |---| ----- | ---------- | -------- | ----- |
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0001/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0001-two-sum/)|
+|0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |![medium](https://img.shields.io/static/v1?label=&message=Medium&color=yellow)|[solution.py](./leetcode/problem_0142/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0142-linked-list-cycle-ii/)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/) |![easy](https://img.shields.io/static/v1?label=&message=Easy&color=green)|[solution.py](./leetcode/problem_0217/solution.py)|[notes](https://dhorvay.github.io/leetcode/solutions/problem-0217-contains-duplicate/)|
 
 ### Two Pointer
