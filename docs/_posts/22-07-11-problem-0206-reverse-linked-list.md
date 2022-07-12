@@ -48,6 +48,7 @@ Traverse through the list keeping track of the previous node and manipulate poin
 | Time | Space |
 | ---- | ----- |
 | O(n) | O(1)  |
+
 ```python
 def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
     prev = None
