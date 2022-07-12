@@ -1,5 +1,5 @@
 ---
-title:  Reverse Linked List
+title: Reverse Linked List
 categories:
   - Solutions
 tags:
