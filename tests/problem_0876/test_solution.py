@@ -3,7 +3,7 @@ from leetcode.common.list_node import equals, from_list
 from leetcode.problem_0876 import Solution
 
 params = [
-    # nums, output
+    # head, output
     ((from_list([1,2,3,4,5])), (from_list([3,4,5]))),
     ((from_list([1,2,3,4,5,6])), (from_list([4,5,6])))
 ]
